@@ -39,7 +39,7 @@ navigation:
 - text: Parduotuvė
   url: /parduotuve/
 - text: Apie
-  url: /apie
+  url: /apie/
 
 
 # Plugin settings
