@@ -1,0 +1,17 @@
+<nav id="nav">
+    {% unless page.layout == 'front' %}
+    <ul class="links">
+        {% assign url = page.url|remove:'.html' %}        
+        {% for link in site.navigation %}
+            <li {% if url == link.url %}class="active"{% endif %}>
+                <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+            </li>
+        {% endfor %}               
+    </ul>
+    {% endunless %}
+    <ul class="icons">
+        <li><a href="{{site.social.twitter}}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="{{site.social.facebook}}" target="blank_" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+        <li><a href="{{site.social.instagram}}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+    </ul>
+</nav>
