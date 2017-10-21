@@ -7,7 +7,7 @@ description: "mūsų kaljanų baras ir parduotuvė"
 
 UAB „Portorožas“, o trumpiau „Al Diwan“ – tai kaljanų baras ir parduotuvė, rytietiškas, atpūstas iš toli, Libano dvelksmas. 
 
-<div class="image main"> <img src="/images/2.jpg" alt="" /></div>
+<div class="image main"> <img src="{{site.url}}/{{site.baseurl}}//images/2.jpg" alt="" /></div>
 
 Tai nuostabiausia vieta, gūsis subtilaus aromato, persmelkto prieskoniais.
 Mūsų „kūdikis“ savo veiklą pradėjo 2001 m., tai buvo vienas pirmųjų rytietiškos kultūros žingsnių Lietuvoje, 
@@ -15,7 +15,7 @@ Mūsų „kūdikis“ savo veiklą pradėjo 2001 m., tai buvo vienas pirmųjų r
  teikėme ir Artimųjų Rytų virtuvės pažinimo, viešojo maitinimo, paslaugas,
   visgi išgryninome savo idėją ir dabar mylimus Lankytojus pasitinkame kaljanų bare.
 
-  <div class="image main"> <img src="/images/8.jpg" alt="" /></div>
+  <div class="image main"> <img src="{{site.url}}/{{site.baseurl}}//images/8.jpg" alt="" /></div>
 
 Prekės ženklas „Al Diwan“ apima ne tik kaljanų barą, tačiau ir kaljanų parduotuvę.
  Pastarojoje galima atrasti įvairių kaljanų bei jų priedų. Siūlome gausų kaljanų rūšių, 
