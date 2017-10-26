@@ -1,18 +1,19 @@
 <footer id="footer">
         <section>
-            <form method="post" action="#">
+            <form method="post" action="https://formspree.io/info@aldiwan.lt">
                 <div class="field">
                     <label for="name">Vardas</label>
                     <input type="text" name="name" id="name" />
                 </div>
                 <div class="field">
                     <label for="email">El. paštas</label>
-                    <input type="text" name="email" id="email" />
+                    <input type="text" name="_replyto" id="email" />
                 </div>
                 <div class="field">
                     <label for="message">Žinutė</label>
                     <textarea name="message" id="message" rows="3"></textarea>
                 </div>
+                <input type="hidden" name="_next" value="https://aldiwan.lt" />
                 <ul class="actions">
                     <li><input type="submit" value="Siųsti" /></li>
                 </ul>
