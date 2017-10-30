@@ -4,7 +4,7 @@
         {% assign url = page.url|remove:'.html' %}        
         {% for link in site.navigation %}
             <li {% if url == link.url %}class="active"{% endif %}>
-                <a href="{{site.url}}/{{site.baseurl}}/{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+                <a href="{{site.url}}/{{link.url}}" title="{{link.title}}">{{link.text}}</a>
             </li>
         {% endfor %}               
     </ul>
