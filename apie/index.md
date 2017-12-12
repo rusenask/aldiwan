@@ -21,6 +21,5 @@ Prekės ženklas „Al Diwan“ apima ne tik kaljanų barą, tačiau ir kaljanų
  Pastarojoje galima atrasti įvairių kaljanų bei jų priedų. Siūlome gausų kaljanų rūšių, 
  dydžių pasirinkimą – prabangius ir kasdienius tiek dovanai, tiek namų puošmenai.
 Mūsų šaunią komandą sudaro net 15 darbuotojų. Tarpusavyje esame lyg šeima, puoselėjame artimą bendravimą, 
-kolegiškumą. Pagrindindis baro ir parduotuvės šeimininkas, ponas Gemayel, 
-kiekvieną pasitinka su šypsena ir išskėstomis rankomis. Nepralenkite mūsų, jei pasiilgote šilumos,
+kolegiškumą. Nepralenkite mūsų, jei pasiilgote šilumos,
  subtilių skonių ir geros nuotaikos. Laukiame Jūsų!
