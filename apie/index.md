@@ -20,6 +20,6 @@ Mūsų „kūdikis“ savo veiklą pradėjo 2001 m., tai buvo vienas pirmųjų r
 Prekės ženklas „Al Diwan“ apima ne tik kaljanų barą, tačiau ir kaljanų parduotuvę.
  Pastarojoje galima atrasti įvairių kaljanų bei jų priedų. Siūlome gausų kaljanų rūšių, 
  dydžių pasirinkimą – prabangius ir kasdienius tiek dovanai, tiek namų puošmenai.
-Mūsų šaunią komandą sudaro net 15 darbuotojų. Tarpusavyje esame lyg šeima, puoselėjame artimą bendravimą, 
+Mūsų šaunią komandą sudaro daugiau nei 10 darbuotojų. Tarpusavyje esame lyg šeima, puoselėjame artimą bendravimą, 
 kolegiškumą. Nepralenkite mūsų, jei pasiilgote šilumos,
  subtilių skonių ir geros nuotaikos. Laukiame Jūsų!
